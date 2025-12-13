@@ -1,7 +1,7 @@
 {
   "urls": [
            {
-      "url": "./a.json",
+      "url": "https://gh-proxy.playdreamer.cn/https://raw.githubusercontent.com/yanghanhanyingshi/yanghanhanyingshi/main/a.json",
       "name": "美娇娘"
     }   
   ]
