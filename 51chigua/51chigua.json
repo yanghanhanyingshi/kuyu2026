@@ -1,5 +1,5 @@
 {
-"spider": "./51chigua.jar",
+"spider": "https://gh-proxy.playdreamer.cn/https://raw.githubusercontent.com/yanghanhanyingshi/yanghanhanyingshi/main/51chigua/51chigua.jar",
 "sites": [
      {
       "key": "Cg51",
